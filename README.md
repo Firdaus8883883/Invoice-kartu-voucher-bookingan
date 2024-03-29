@@ -1,4 +1,4 @@
-# Template website undangan pernikahan sederhana
+# Template rules pembokingan privasi
 
 ![Thumbnail](/assets/images/banner.png)
 ![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)
@@ -28,11 +28,11 @@
 
 ### Contributing
 
-I'm very open to those of you who want to contribute to the undangan!
+I'm very open to those of you who want to contribute to the voucher!
 
 ### Security Vulnerabilities
 
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
+If you find any security vulnerabilities in this undangan, please email DKL via [priliainces@gmail.com](priliainces@gmail.com).
 
 ### License
 
